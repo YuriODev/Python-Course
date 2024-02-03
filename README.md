@@ -49,6 +49,52 @@ The Computer Science department team encourages all students to seek help and en
 - **Extra Work**: We encourage you to go beyond the coursework. Tackling additional problems and projects can significantly enhance your understanding and skills.
 - **We're Here to Help**: Our team is dedicated to supporting you. Reach out through issues in the repository, or contact us directly for guidance.
 
+## 🛠 Recommended VS Code Extensions
+
+To enhance your Python coding experience in Visual Studio Code, we recommend the following extensions. These extensions provide support for Markdown preview, Python development, linting, sorting imports, running Jupyter notebooks, and more:
+
+- **GitHub Markdown Preview** - `bierner.markdown-preview-github-styles`: Provides a GitHub-style preview for Markdown files, making documentation more readable.
+
+- **Flask Snippets** - `cstrap.flask-snippets`: Offers snippets for Flask, enhancing productivity when working with this Python web framework.
+
+- **GitHub Copilot** - `github.copilot`: Acts as your AI pair programmer, assisting with Python code and more.
+
+- **Python Test Adapter** - `littlefoxteam.vscode-python-test-adapter`: Integrates with the Test Explorer UI to run Python tests directly from VS Code.
+
+- **Debugpy** - `ms-python.debugpy`: An implementation of the Debug Adapter Protocol, enabling debugging of Python applications.
+
+- **Flake8 Linting** - `ms-python.flake8`: Provides linting for Python using flake8, helping to catch coding errors and enforce style conventions.
+
+- **Isort** - `ms-python.isort`: Automatically sorts imports alphabetically and separates them into sections, improving code organization.
+
+- **Python** - `ms-python.python`: Offers comprehensive support for Python development in VS Code, including IntelliSense, linting, debugging, and more.
+
+- **Pylance** - `ms-python.vscode-pylance`: A fast, feature-rich language server for Python, enhancing code comprehension and navigation.
+
+- **Jupyter** - `ms-toolsai.jupyter`: Adds support for Jupyter notebooks with features like interactive programming, IntelliSense, and debugging.
+
+- **Jupyter Keymap** - `ms-toolsai.jupyter-keymap`: Provides Jupyter keyboard shortcuts in VS Code for a familiar notebook experience.
+
+- **Jupyter Renderers** - `ms-toolsai.jupyter-renderers`: Enables custom output renderers for Jupyter notebooks.
+
+- **Jupyter Cell Tags** - `ms-toolsai.vscode-jupyter-cell-tags`: Adds cell tag support for organizing and running Jupyter notebook cells.
+
+- **Jupyter Slideshow** - `ms-toolsai.vscode-jupyter-slideshow`: Allows you to turn Jupyter notebooks into slideshows for presentations.
+
+- **IPython** - `pancho111203.vscode-ipython`: Brings IPython support to VS Code, offering an enhanced interactive Python console.
+
+- **Markdown PDF** - `yzane.markdown-pdf`: Converts Markdown files to PDF, HTML, PNG, or JPEG, useful for documentation and reports.
+
+For correct indentation and code formatting, consider:
+
+- **EditorConfig for VS Code** - `editorconfig.editorconfig`: Helps developers define and maintain consistent coding styles between different editors and IDEs.
+
+To install any of these extensions, you can search for their ID in the Extensions view (`Ctrl+Shift+X`) in VS Code or use the command palette (`Ctrl+Shift+P`) with the command `Extensions: Install Extension` and then enter the extension ID.
+
+Happy coding!
+
+
+
 ## 📢 Providing Feedback
 
 Your feedback helps us improve. If you have suggestions or comments, please raise an issue in this repository.
