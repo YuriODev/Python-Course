@@ -6,7 +6,7 @@ Welcome to the Python course designed for students at St. Ignatius College. Offe
 
 Below is a list of topics we will cover. Each topic has its dedicated repository where you'll find detailed materials, examples, and exercises:
 
-- [Variables and Data Types](https://github.com/YuriODev/python-st-ignatius-01-simple-data-types/README.md) 📊
+- [Variables and Data Types](https://github.com/YuriODev/python-st-ignatius-01-simple-data-types/blob/main/README.md) 📊
 - [Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/README.md) 🔀
 - [Loops](#) ➿
 - [String Manipulation](#) 🧵
