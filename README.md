@@ -7,14 +7,14 @@ Welcome to the Python course designed for students at St. Ignatius College. Offe
 Below is a list of topics we will cover. Each topic has its dedicated repository where you'll find detailed materials, examples, and exercises:
 
 - [Variables and Data Types](https://github.com/YuriODev/python-st-ignatius-01-simple-data-types/blob/main/README.md) 📊
-- [Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/README.md) 🔀
-- [Loops](#) ➿
-- [String Manipulation](#) 🧵
-- [Lists and Tuples](#) 📝
-- [Dictionaries and Sets](#) 🗂
-- [Functions](#) 🛠
-- [Files and Modules](#) 🗄
-- [Object-Oriented Programming (OOP)](#) 🤖
+- [Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md) 🔀 (In progress 🚧)
+- [Loops](#) ➿ (Coming soon ❌)
+- [String Manipulation](#) 🧵 (Coming soon ❌)
+- [Lists and Tuples](#) 📝 (Coming soon ❌)
+- [Dictionaries and Sets](#) 🗂 (Coming soon ❌)
+- [Functions](#) 🛠 (Coming soon ❌)
+- [Files and Modules](#) 🗄 (Coming soon ❌)
+- [Object-Oriented Programming (OOP)](#) 🤖 (Coming soon ❌)
 
 ## 🛠 Tools for the Course
 
