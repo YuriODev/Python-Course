@@ -8,8 +8,9 @@ Below is a list of topics we will cover. Each topic has its dedicated repository
 
 - [Variables and Data Types](https://github.com/YuriODev/python-st-ignatius-01-simple-data-types/blob/main/README.md) 📊
 - [Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md) 🔀 (In progress 🚧)
+- [Loops](https://github.com/YuriODev/python-st-ignatius-03-iterations-and-loops/blob/main/README.md) ➿ (In progress 🚧)
+- [String Manipulation](https://github.com/YuriODev/python-st-ignatius-04-string-manipulation/blob/main/README.md) 🧵 (In progress 🚧)
 - [Loops](#) ➿ (Coming soon ❌)
-- [String Manipulation](#) 🧵 (Coming soon ❌)
 - [Lists and Tuples](#) 📝 (Coming soon ❌)
 - [Dictionaries and Sets](#) 🗂 (Coming soon ❌)
 - [Functions](#) 🛠 (Coming soon ❌)
