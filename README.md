@@ -8,14 +8,15 @@ Below is a list of topics we will cover. Each topic has its dedicated repository
 
 - [Variables and Data Types](https://github.com/YuriODev/python-st-ignatius-01-simple-data-types/blob/main/README.md) 📊
 - [Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md) 🔀 (In progress 🚧)
-- [Loops](https://github.com/YuriODev/python-st-ignatius-03-iterations-and-loops/blob/main/README.md) ➿ (In progress 🚧)
+- [Iterations and Loops](https://github.com/YuriODev/python-st-ignatius-03-iterations-and-loops/blob/main/README.md) ➿ (In progress 🚧)
 - [String Manipulation](https://github.com/YuriODev/python-st-ignatius-04-string-manipulation/blob/main/README.md) 🧵 (In progress 🚧)
-- [Loops](#) ➿ (Coming soon ❌)
-- [Lists and Tuples](#) 📝 (Coming soon ❌)
-- [Dictionaries and Sets](#) 🗂 (Coming soon ❌)
-- [Functions](#) 🛠 (Coming soon ❌)
-- [Files and Modules](#) 🗄 (Coming soon ❌)
-- [Object-Oriented Programming (OOP)](#) 🤖 (Coming soon ❌)
+- [Lists and Tuples](https://github.com/YuriODev/python-st-ignatius-05-lists-in-python/blob/main/README.md) 📝 (Coming soon ❌)
+- [Dictionaries](https://github.com/YuriODev/python-st-ignatius-06-mastering-dictionaries/blob/main/README.md) 🗂 (Coming soon ❌)
+- [Functions](https://github.com/YuriODev/python-st-ignatius-07-functions-in-python/blob/main/README.md) 🛠 (Coming soon ❌)
+- [Files](https://github.com/YuriODev/python-st-ignatius-08-files-in-python/blob/main/README.md) 🗄 (Coming soon ❌)
+- [Object-Oriented Programming (OOP)](https://github.com/YuriODev/python-st-ignatius-09-oop/blob/main/README.md) 🤖 (Coming soon ❌)
+- [Modules and Packages](https://github.com/YuriODev/python-st-ignatius-10-modules-and-packages/blob/main/README.md) 📦 (Coming soon ❌)
+- [Unit Testing](https://github.com/YuriODev/python-st-ignatius-11-unit-testing/blob/main/README.md) ✅ (Coming soon ❌)
 
 ## 🛠 Tools for the Course
 
