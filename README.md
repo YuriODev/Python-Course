@@ -7,7 +7,7 @@ Welcome to the Python course designed for students at St. Ignatius College. Offe
 Below is a list of topics we will cover. Each topic has its dedicated repository where you'll find detailed materials, examples, and exercises:
 
 - [Variables and Data Types](https://github.com/YuriODev/python-st-ignatius-01-simple-data-types/blob/main/README.md) 📊
-- [Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md) 🔀 (In progress 🚧)
+- [Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md) 🔀
 - [Iterations and Loops](https://github.com/YuriODev/python-st-ignatius-03-iterations-and-loops/blob/main/README.md) ➿ (In progress 🚧)
 - [String Manipulation](https://github.com/YuriODev/python-st-ignatius-04-string-manipulation/blob/main/README.md) 🧵 (In progress 🚧)
 - [Lists and Tuples](https://github.com/YuriODev/python-st-ignatius-05-lists-in-python/blob/main/README.md) 📝 (Coming soon ❌)
@@ -15,8 +15,8 @@ Below is a list of topics we will cover. Each topic has its dedicated repository
 - [Functions](https://github.com/YuriODev/python-st-ignatius-07-functions-in-python/blob/main/README.md) 🛠 (Coming soon ❌)
 - [Files](https://github.com/YuriODev/python-st-ignatius-08-files-in-python/blob/main/README.md) 🗄 (Coming soon ❌)
 - [Object-Oriented Programming (OOP)](https://github.com/YuriODev/python-st-ignatius-09-oop/blob/main/README.md) 🤖 (Coming soon ❌)
-- [Modules and Packages](https://github.com/YuriODev/python-st-ignatius-10-modules-and-packages/blob/main/README.md) 📦 (Coming soon ❌)
-- [Unit Testing](https://github.com/YuriODev/python-st-ignatius-11-unit-testing/blob/main/README.md) ✅ (Coming soon ❌)
+- [Modules and Packages](https://github.com/YuriODev/python-st-ignatius-11-modules-and-packages/blob/main/README.md) 📦 (Coming soon ❌)
+- [Unit Testing](https://github.com/YuriODev/python-st-ignatius-12-unit-testing/blob/main/README.md) ✅ (Coming soon ❌)
 
 ## 🛠 Tools for the Course
 
