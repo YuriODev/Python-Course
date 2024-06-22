@@ -10,7 +10,7 @@ Below is a list of topics we will cover. Each topic has its dedicated repository
 - [Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md) 🔀
 - [Iterations and Loops](https://github.com/YuriODev/python-st-ignatius-03-iterations-and-loops/blob/main/README.md) ➿
 - [String Manipulation](https://github.com/YuriODev/python-st-ignatius-04-string-manipulation/blob/main/README.md) 🧵
-- [Lists and Tuples](https://github.com/YuriODev/python-st-ignatius-05-lists-in-python/blob/main/README.md) 📝 (In progress 🚧)
+- [Lists and Tuples](https://github.com/YuriODev/python-st-ignatius-05-lists-in-python/blob/main/README.md) 📝
 - [Dictionaries](https://github.com/YuriODev/python-st-ignatius-06-mastering-dictionaries/blob/main/README.md) 🗂 (In progress 🚧)
 - [Functions](https://github.com/YuriODev/python-st-ignatius-07-functions-in-python/blob/main/README.md) 🛠 (In progress 🚧)
 - [Files](https://github.com/YuriODev/python-st-ignatius-08-files-in-python/blob/main/README.md) 🗄 (In progress 🚧)
