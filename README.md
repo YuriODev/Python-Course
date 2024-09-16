@@ -8,17 +8,6 @@
 
 The **YuriODev Comprehensive Python Course** is designed to provide learners with a solid foundation in Python programming, from basic data types to advanced topics like object-oriented programming and file handling.
 
-## 🔧 Key Features
-
-- **Beginner-Friendly**: Start with basic concepts and progress to more advanced topics with detailed explanations and examples.
-- **Practical Exercises**: Each module includes exercises designed to challenge and reinforce learning, from simple data types to advanced programming concepts such as object-oriented programming (OOP) and unit testing.
-- **Autograded Tests**: Automatically grade and test your code upon pushing updates to the GitHub repository, showing a beautiful and detailed result view.
-- **Professional Code Testing**: Includes detailed checks for loop usage, error handling, and adherence to the specific instructions in exercises.
-- **Python Learning Tools**: Explore the course using well-organized examples, exercises, and solutions.
-- **Comprehensive Feedback**: Detailed custom test feedback to help guide improvements in your solutions.
-- **GitHub Actions Integration**: Automatically run tests every time changes are made to the exercise files, giving immediate feedback through GitHub Actions.
-
-
 ## 🌟 Course Modules
 
 
@@ -36,6 +25,15 @@ The **YuriODev Comprehensive Python Course** is designed to provide learners wit
 | [Modules and Packages](https://github.com/YurioDev/python-yuriodev-10-modules-and-packages) 📦 (Coming soon ❌) | Organizing and reusing code with modules and packages. |
 | [Unit Testing](https://github.com/YurioDev/python-yuriodev-11-unit-testing) ✅ (Coming soon ❌) | Writing tests to ensure code correctness. |
 
+## 🔧 Key Features
+
+- **Beginner-Friendly**: Start with basic concepts and progress to more advanced topics with detailed explanations and examples.
+- **Practical Exercises**: Each module includes exercises designed to challenge and reinforce learning, from simple data types to advanced programming concepts such as object-oriented programming (OOP) and unit testing.
+- **Autograded Tests**: Automatically grade and test your code upon pushing updates to the GitHub repository, showing a beautiful and detailed result view.
+- **Professional Code Testing**: Includes detailed checks for loop usage, error handling, and adherence to the specific instructions in exercises.
+- **Python Learning Tools**: Explore the course using well-organized examples, exercises, and solutions.
+- **Comprehensive Feedback**: Detailed custom test feedback to help guide improvements in your solutions.
+- **GitHub Actions Integration**: Automatically run tests every time changes are made to the exercise files, giving immediate feedback through GitHub Actions.
 
 
 ## 🚀 Quick Start
