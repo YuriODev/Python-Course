@@ -57,11 +57,11 @@ The **YuriODev Comprehensive Python Course** is designed to provide learners wit
 ├── exercises
 └── solutions
 ```
-
 - **Theory**: Contains explanations and concepts for each topic.
 - **Examples**: Practical code snippets that demonstrate concepts in action.
 - **Exercises**: Problems to test your understanding.
 - **Solutions**: Answers to the exercises (check only after attempting).
+
 
 ## 🛠 Tools for the Course
 
@@ -70,7 +70,6 @@ To ensure a smooth learning experience, you may use the following tools:
 - **Visual Studio Code**: An editor that supports Python and Jupyter notebooks. [Download Visual Studio Code](https://code.visualstudio.com/Download).
 - **Replit**: An online IDE for writing, running, and sharing code. [Start with Replit for Education](https://replit.com/site/teams-for-education).
 - **VSCode Web**: Code directly in your browser with [VSCode Web](https://vscode.dev).
-
 
 
 ## 🚀 Quick Start
