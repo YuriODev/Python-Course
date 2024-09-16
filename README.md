@@ -51,7 +51,6 @@ The **YuriODev Comprehensive Python Course** is designed to provide learners wit
 ## 📂 Directory Structure
 
 ```
-.
 ├── theory
 ├── examples
 ├── exercises
