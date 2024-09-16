@@ -1,22 +1,69 @@
-# Python Course for St. Ignatius College 📘
+# Python Comprehensive Course by YuriODev 📘
 
-Welcome to the Python course designed for students at St. Ignatius College. Offered by the Computer Science department, this course aims to introduce you to the fundamentals of Python programming through a series of engaging topics.
+![GitHub contributors](https://img.shields.io/github/contributors/YurioDev/Python-Course?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/YurioDev/Python-Course?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/YurioDev/Python-Course?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/YurioDev/Python-Course?style=for-the-badge)
+![License](https://img.shields.io/github/license/YurioDev/Python-Course?style=for-the-badge)
 
-## 📚 Course Topics
+The **YuriODev Comprehensive Python Course** is designed to provide learners with a solid foundation in Python programming, from basic data types to advanced topics like object-oriented programming and file handling.
 
-Below is a list of topics we will cover. Each topic has its dedicated repository where you'll find detailed materials, examples, and exercises:
+## 🔧 Key Features
 
-- [Variables and Data Types](https://github.com/YuriODev/python-st-ignatius-01-simple-data-types/blob/main/README.md) 📊
-- [Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md) 🔀
-- [Iterations and Loops](https://github.com/YuriODev/python-st-ignatius-03-iterations-and-loops/blob/main/README.md) ➿
-- [String Manipulation](https://github.com/YuriODev/python-st-ignatius-04-string-manipulation/blob/main/README.md) 🧵
-- [Lists and Tuples](https://github.com/YuriODev/python-st-ignatius-05-lists-in-python/blob/main/README.md) 📝
-- [Dictionaries](https://github.com/YuriODev/python-st-ignatius-06-mastering-dictionaries/blob/main/README.md) 🗂 (In progress 🚧)
-- [Functions](https://github.com/YuriODev/python-st-ignatius-07-functions-in-python/blob/main/README.md) 🛠 (In progress 🚧)
-- [Files](https://github.com/YuriODev/python-st-ignatius-08-files-in-python/blob/main/README.md) 🗄 (In progress 🚧)
-- [Object-Oriented Programming (OOP)](https://github.com/YuriODev/python-st-ignatius-09-oop/blob/main/README.md) 🤖 (In progress 🚧)
-- [Modules and Packages](https://github.com/YuriODev/python-st-ignatius-10-modules-and-packages/blob/main/README.md) 📦 (Coming soon ❌)
-- [Unit Testing](https://github.com/YuriODev/python-st-ignatius-11-unit-testing/blob/main/README.md) ✅ (Coming soon ❌)
+- **Beginner-Friendly**: Start with basic concepts and progress to more advanced topics with detailed explanations and examples.
+- **Practical Exercises**: Each module includes exercises designed to challenge and reinforce learning, from simple data types to advanced programming concepts such as object-oriented programming (OOP) and unit testing.
+- **Autograded Tests**: Automatically grade and test your code upon pushing updates to the GitHub repository, showing a beautiful and detailed result view.
+- **Professional Code Testing**: Includes detailed checks for loop usage, error handling, and adherence to the specific instructions in exercises.
+- **Python Learning Tools**: Explore the course using well-organized examples, exercises, and solutions.
+- **Comprehensive Feedback**: Detailed custom test feedback to help guide improvements in your solutions.
+- **GitHub Actions Integration**: Automatically run tests every time changes are made to the exercise files, giving immediate feedback through GitHub Actions.
+
+
+## 🌟 Course Modules
+
+
+| **Module**                                         | **Description**                                     |
+|----------------------------------------------------|-----------------------------------------------------|
+| [Simple Data Types](https://github.com/YurioDev/python-yuriodev-01-simple-data-types) 📊 | Introduction to variables, data types, and basic operations. |
+| [Conditional Statements](https://github.com/YurioDev/python-yuriodev-02-conditional-statements) 🔀 | Making decisions in your code with `if`, `elif`, and `else`. |
+| [Iterations and Loops](https://github.com/YurioDev/python-yuriodev-03-iterations-and-loops) ➿ | Mastering loops (`for`, `while`) and iteration techniques. |
+| [String Manipulation](https://github.com/YurioDev/python-yuriodev-04-string-manipulation) 🧵 | Techniques for working with text and strings in Python. |
+| [Lists and Tuples](https://github.com/YurioDev/python-yuriodev-05-lists-in-python) 📝 | Understanding Python collections and their applications. |
+| [Dictionaries](https://github.com/YurioDev/python-yuriodev-06-mastering-dictionaries) 🗂 | Efficient ways to store and retrieve data with key-value pairs. |
+| [Functions](https://github.com/YurioDev/python-yuriodev-07-functions-in-python) 🛠 | Building reusable blocks of code with functions. |
+| [Files](https://github.com/YurioDev/python-yuriodev-08-files-in-python) 🗄 | Reading from and writing to files in Python. |
+| [Object-Oriented Programming (OOP)](https://github.com/YurioDev/python-yuriodev-09-oop) 🤖 | Introduction to classes and objects in Python. |
+| [Modules and Packages](https://github.com/YurioDev/python-yuriodev-10-modules-and-packages) 📦 (Coming soon ❌) | Organizing and reusing code with modules and packages. |
+| [Unit Testing](https://github.com/YurioDev/python-yuriodev-11-unit-testing) ✅ (Coming soon ❌) | Writing tests to ensure code correctness. |
+
+
+
+## 🚀 Quick Start
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/YurioDev/python-yuriodev-01-simple-data-types.git
+   ```
+2. **Start learning**:
+   - Open the theory section to get started.
+   - Explore examples and try out exercises.
+3. **Submit solutions**:
+   - After completing exercises, compare your results with the provided solutions.
+
+## 📂 Directory Structure
+
+```
+.
+├── theory
+├── examples
+├── exercises
+└── solutions
+```
+
+- **Theory**: Contains explanations and concepts for each topic.
+- **Examples**: Practical code snippets that demonstrate concepts in action.
+- **Exercises**: Problems to test your understanding.
+- **Solutions**: Answers to the exercises (check only after attempting).
 
 ## 🛠 Tools for the Course
 
@@ -26,22 +73,25 @@ To ensure a smooth learning experience, you may use the following tools:
 - **Replit**: An online IDE for writing, running, and sharing code. [Start with Replit for Education](https://replit.com/site/teams-for-education).
 - **VSCode Web**: Code directly in your browser with [VSCode Web](https://vscode.dev).
 
-## 🔗 Connecting Replit to GitHub Classroom
 
-Submitting assignments through GitHub Classroom is easy once your Replit account is linked to GitHub. Follow these steps to connect your accounts:
 
-1. ![Placeholder for instructional GIF](#)
+## 🚀 Quick Start
 
-**Note**: School accounts may have restrictions. Using personal accounts for this course may be more effective.
-
-## 🌟 Getting Started
-
-Dive into "Variables and Data Types" by exploring the `theory.ipynb` notebook. Enhance your learning with practical examples, and challenge yourself with exercises:
-
-- Review theoretical concepts in `theory.ipynb`.
-- Explore practical applications in the `examples/` directory.
-- Test your understanding with exercises in the `exercises/` directory.
-- Verify your solutions in the `solutions/` directory. Attempt the exercises independently before consulting the solutions.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/YurioDev/ComprehensivePythonCourse.git
+   ```
+2. **Run the autograding tests**:
+   - Every time you update your code and push changes, tests will run automatically using GitHub Actions.
+   - You can also run tests locally using `pytest`:
+     ```bash
+     pytest exercises/
+     ```
+3. **Explore the exercises**:
+   - Work through each module, practice coding with the exercises, and check your results through the autograding tests.
+   
+4. **Continuous Integration**:
+   - Your code is automatically tested with every commit, providing instant feedback through detailed custom tests.
 
 ## 💡 Need Help?
 
@@ -93,12 +143,23 @@ For correct indentation and code formatting, consider:
 
 To install any of these extensions, you can search for their ID in the Extensions view (`Ctrl+Shift+X`) in VS Code or use the command palette (`Ctrl+Shift+P`) with the command `Extensions: Install Extension` and then enter the extension ID.
 
-Happy coding!
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE). Forks and contributions are welcome for personal and educational use.
 
 
+## 💡 Getting Help
+
+The **YuriODev team** is here to help you on your Python learning journey. If you're stuck, raise an issue in the repository or contact us directly.
 
 ## 📢 Providing Feedback
 
+### 📞 Contact Me
+
+[![Contact Me](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge)](mailto:contact@yuriodev.co.uk)
+
 Your feedback helps us improve. If you have suggestions or comments, please raise an issue in this repository.
 
-Happy Learning!
+Happy Coding!
+
+
